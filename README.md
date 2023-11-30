@@ -1,12 +1,14 @@
 # Formulário de Login
 Formulário desenvolvido em aulas, tendo o professor Leonardo como orientador.
+![](tela.png)
  
 ## Índice
 * [Descrição](#descrição)
 * [Introdução](#introdução)
 * [Funcionalidades](#funcionalidades)
-* [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas)
+* [tTecnologias etécnicas utilizadas](#técnicas-e-tecnologias-utilizadas)
 * [Fontes Consultadas](#fontes-consultadas)
+* [Autor](#autor)
  
 ## Descrição
 O site de login é uma página simples e objetiva, com o objetivo de permitir que usuários registrados no site acessem áreas restritas. A página é composta por dois campos:
